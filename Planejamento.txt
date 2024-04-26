@@ -1,0 +1,26 @@
+
+PEOJETO CRIAÇÃO DE GAME
+
+*tipos de jogos
+https://www.friv.com/z/games/superonionboy/game.html
+https://www.clickjogos.com.br/
+
+*escolher sprite de imagens
+https://craftpix.net/freebies/free-nature-backgrounds-pixel-art/?num=3&count=231&sq=runner&pos=7
+
+
+
+
+12 horas Planejamento/desenvolvimento
+
+*Planejamento
+
+- Tela passando estilo runner/ com obstaculos (buracos, paredes, etc)
+-estilo mario( bater em baixode uma caixinha e aparecer vida,
+energia, etc)
+-passagem secreta
+- personagem voando/ simular gravidade
+
+*Organização Lógica 
+*Estrutura
+*Programação
